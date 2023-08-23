@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class CodeDevalope {
+public class CodeDeveloper {
 
   private static Map<String, Object> variableMap;
 
