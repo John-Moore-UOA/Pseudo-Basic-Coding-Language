@@ -8,7 +8,9 @@ I will rather work on this in my spare time.
 
 # Done
 - variable Map
-- LET
+- LET statement
+- Integer Type
+- String Type
 - recognise IF, WHILE, THEN, DO, ENDIF, LOOP
 
 # Todo
