@@ -10,6 +10,26 @@ But due to the nature of the assignment, I have deemed it to complex for a unive
 
 I will rather work on this in my spare time.
 
+# Example
+
+```
+LET integerValue = 1
+LET str = abc
+
+LET temp = 0
+
+IF integerValue == 1
+temp = 10
+ELSE
+temp = 20
+ENDIF
+
+LET i = 0
+WHILE temp > i DO
+PRINT temp
+LOOP
+```
+
 # Done
 - variable Map
 - LET statement
@@ -18,6 +38,7 @@ I will rather work on this in my spare time.
 - recognise IF, WHILE, THEN, DO, ENDIF, LOOP
 
 # Todo
+- PRINT method
 - String concatenation
 - integer operations
 - while loop
