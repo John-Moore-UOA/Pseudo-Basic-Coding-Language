@@ -18,7 +18,7 @@ LET str = abc
 
 LET temp = 0
 
-IF integerValue == 1
+IF integerValue == 1 DO
 temp = 10
 ELSE
 temp = 20
